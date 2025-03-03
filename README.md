@@ -20,7 +20,7 @@ To create an interactive Power BI dashboard for managing personal finances, trac
 
 -Are there any recurring spending patterns or outliers?
 
--Dashboard Intraction <a "https://github.com/life-of-abin/Data-Analyst-Dashboard/blob/main/Personal%20Finance%20Dashboard.pbix">View Dashboard</a>
+-Dashboard Intraction <a href="https://github.com/life-of-abin/Data-Analyst-Dashboard/blob/main/Personal%20Finance%20Dashboard.pbix">View Dashboard</a>
 
 ## 🔧 Process
 
